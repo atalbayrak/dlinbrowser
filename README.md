@@ -1,5 +1,5 @@
 # Name Generator using RNN
------------------------------------
+
 Whether you're trying to write a character list for an epic voyage,
 creating a group of witches for a children's book, or just trying
 to name your pet unicorn, we'll find the name for you.
