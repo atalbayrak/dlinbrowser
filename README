@@ -9,3 +9,9 @@ to name your pet unicorn, we'll find the name for you.
 * PyTorch (1.4)
 * Streamlit (0.54.0)
 * Numpy (1.17.4)
+
+## Run
+
+```bash
+streamlit run main.py
+```
