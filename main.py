@@ -89,7 +89,7 @@ st.title('Name Generator')
 list for an epic voyage, creating a group of witches
 for a children's book, or just trying to name your pet
 unicorn, we'll find the name for you."""
-race = st.selectbox(label="Race", options=('Ainur', 'Man', 'Elf', 'Dwarf', 'Hobbit'))
+race = st.selectbox(label="Race", options=('Man', 'Elf', 'Dwarf', 'Hobbit', 'Ainur'))
 username = st.text_input(label="Starting Characters" ,value='', key=None, type='default')
 
 if username == '':
